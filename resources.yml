@@ -1,0 +1,8 @@
+resources:
+  - name: vt3-docker
+    type: image
+    integration: ankul-docker #your account integration
+    source:
+      name: "ankul/test-repo"
+      isPull: false
+      tag: akskas
