@@ -1,8 +1,8 @@
 resources:
   - name: vt3-docker
     type: image
-    integration: ankul-docker #your account integration
+    integration: ship4-docker #your account integration
     source:
-      name: "ankul/test-repo"
+      name: "shiphitchcock4/hitchcock4_sample_node"
       isPull: false
-      tag: akskas
+      tag: latest
