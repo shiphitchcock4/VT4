@@ -1,5 +1,5 @@
 jobs:
-  - name: vt3
+  - name: vt4
     type: manifest
     steps:
-      - GET vt3-docker
+      - GET vt4-docker
