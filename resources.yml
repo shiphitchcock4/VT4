@@ -1,5 +1,5 @@
 resources:
-  - name: vt3-docker
+  - name: vt4-docker
     type: image
     integration: ship4-docker #your account integration
     source:
