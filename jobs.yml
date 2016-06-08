@@ -3,3 +3,4 @@ jobs:
     type: manifest
     steps:
       - GET vt4-docker
+      - PUT vt4-docker
